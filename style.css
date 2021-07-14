@@ -56,6 +56,7 @@
 .hero-img img {
     width: 555px;
     height: 440px;
+    padding-top: 40px;
 }
 
 .hero-text {
@@ -136,7 +137,8 @@
 }
 
 .player-card p {
-    padding-bottom: 10px;
+    text-align: center;
+    padding: 0 5px 10px 5px;
 }
 
 .player-card {
